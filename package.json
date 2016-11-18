@@ -1,7 +1,7 @@
 {
   "name": "tmproject",
   "main": "./lib/tmproject",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An Atom package that add temporary project",
   "keywords": [
     "temp",
