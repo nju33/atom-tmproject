@@ -9,6 +9,6 @@ An Atom package that add temporary project
 ## Commands
 
 - `Tmproject: Create`  
-  Add a temporary project
+  Add a temporary project. The created project is automatically deleted when the editor is closed.
 - `Tmproject: Delete`  
-  Select from existing temporary projects and delete from the tree view
+  Select from existing temporary projects and delete from the tree view.
