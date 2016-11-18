@@ -4,6 +4,8 @@
 
 An Atom package that add temporary project
 
+![Atom Tmproject](https://github.com/nju33/atom-tmproject/blob/master/screenshot.gif?raw=true)
+
 ## Commands
 
 - `Tmproject: Create`  
